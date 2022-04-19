@@ -55,7 +55,7 @@
 
 <p><span style="font-weight:400;">For me this leads to a rubric like:</span></p>
 
-<ul><li><span style="font-weight:400;"><strong>Education</strong>: Ivy League or Stanford / MIT / UChicago or lower tier only if grades really good</span></li><li><strong>Experience</strong>: worked at a place with a known rigorous hiring process (google, fb, or a smaller, well known startup like Oscar, Paperless Post, Betterment, Vine, etc)</li><li><strong>Any undergrad major fine</strong>, but STEM a bonus</li><li><strong>Bootcamp fine</strong>, so long as they have pedigree above</li><li><strong>Enough CS knowledge to pass a Google-style interview</strong></li></ul>
+<ul><li><span style="font-weight:400;"><strong>Education</strong>Undergrad degree from a good school, or self-taught ok if a strong track record</span></li><li><strong>Experience</strong>: worked at a place with a known rigorous hiring process (google, fb, or a smaller, well known startup like Oscar, Paperless Post, Betterment, Vine, etc)</li><li><strong>Any undergrad major fine</strong>, but STEM a bonus</li><li><strong>Enough CS knowledge to pass a Google-style interview</strong></li></ul>
 
 <p><span style="font-weight:400;">On the flip side, you need to consider what your target engineers are going to care about and how can you stand out.</span></p>
 
