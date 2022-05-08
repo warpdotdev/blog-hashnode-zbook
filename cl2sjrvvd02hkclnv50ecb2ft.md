@@ -28,6 +28,7 @@ Finally, there is the dreaded “perf-season” where engineers and managers was
 * From a product perspective, managers create new, confusing, internally competing products while existing products languish or are sunset, because one of the best ways to get promoted is to launch something new.
 * From a cultural perspective, for engineers who really care about the products they are building, promo-culture creates a demoralizing situation, sometimes forcing engineers to choose between doing what’s best for users or what’s best for their career. 
 ‍
+
 # Alternatives to promo-cultures
 ‍
 In theory startups should be the foil to promotion driven cultures – most startup employees understand that getting promoted is a second-order concern relative to the risks of the startup not succeeding. 
