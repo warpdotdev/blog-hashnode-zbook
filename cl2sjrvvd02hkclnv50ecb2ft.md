@@ -46,4 +46,5 @@ Some things I've been thinking about that might help avoid promotion culture:
 * Make the ladder heavily focused on user-impact as the main criteria for advancement
 * Be constantly on the lookout for promo red-flags like post-hoc design docs, internally competing projects, and “promo-seasons”
 ‍
+
 If you have other ideas on how to avoid the slip into promo-culture, I’d love to hear your thoughts.
